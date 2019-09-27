@@ -49,3 +49,4 @@ pkg
 bin
 test/dump.rdb
 test/stdout
+.idea
