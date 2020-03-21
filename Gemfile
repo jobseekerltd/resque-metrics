@@ -13,5 +13,5 @@ group :development do
   end
   gem 'minitest', '>=2'
   gem "bundler"
-  gem "jeweler"
+  gem "jeweler", ">= 2.0.1"
 end
