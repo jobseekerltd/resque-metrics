@@ -50,3 +50,4 @@ bin
 test/dump.rdb
 test/stdout
 .idea
+Gemfile.lock
